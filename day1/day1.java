@@ -7,5 +7,6 @@ class day1 {
     }
     public static void main (String [] args){
         System.out.println(sum(2, 3));
+        System.out.print("\nTilak dai\n");
     }
 };
